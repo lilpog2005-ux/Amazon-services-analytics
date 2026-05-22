@@ -18,7 +18,6 @@ This project explores the relationship between discount levels, product ratings,
 - Regression Analysis
 - K-Means Clustering
 - A/B Testing
-- Tableau Dashboard Visualization
 
 ## Technologies Used
 - Python
