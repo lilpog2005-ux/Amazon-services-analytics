@@ -2,6 +2,12 @@
 
 Business analytics and machine learning project analyzing how Amazon discount strategies influence customer engagement, product popularity, and customer satisfaction.
 
+## Dataset
+
+The dataset used in this project was obtained from Kaggle:
+
+[Amazon Sales Dataset](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
+
 ## Project Overview
 This project explores the relationship between discount levels, product ratings, and customer engagement using Amazon product data. The analysis combines statistical methods, machine learning techniques, and Tableau visualizations to evaluate how discount strategies impact customer behavior and business performance.
 
